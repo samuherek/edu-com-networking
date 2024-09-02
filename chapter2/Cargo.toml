@@ -12,3 +12,7 @@ path = "src/server.rs"
 [[bin]]
 name = "client"
 path = "src/main.rs"
+
+[[bin]]
+name = "smtp"
+path = "src/smtp.rs"
