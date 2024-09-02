@@ -16,3 +16,7 @@ path = "src/main.rs"
 [[bin]]
 name = "smtp"
 path = "src/smtp.rs"
+
+[[bin]]
+name = "proxy"
+path = "src/proxy.rs"
